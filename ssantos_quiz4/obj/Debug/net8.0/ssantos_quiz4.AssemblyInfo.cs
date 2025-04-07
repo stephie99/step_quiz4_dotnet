@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ssantos_quiz4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4d242f682a73afeaedb24a8eecc2a1413de9e66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c67236836f98d939163e7fcea2932505bd33b271")]
 [assembly: System.Reflection.AssemblyProductAttribute("ssantos_quiz4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ssantos_quiz4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
